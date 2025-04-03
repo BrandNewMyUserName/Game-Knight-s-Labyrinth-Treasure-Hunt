@@ -1,0 +1,53 @@
+﻿  AStar.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\AStar.cpp(33,146): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Bfs.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Bfs.cpp(5,141): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Character.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(4,231): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(4,231): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(17,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(18,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(49,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(50,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(93,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(94,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(95,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(99,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(100,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(149,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(150,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(154,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\Character.cpp(155,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ControlMenu.cpp
+  GameResult.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameResult.cpp(24,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameResult.cpp(29,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  GameSettings.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+  GameWindow.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(19,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(19,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(39,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(39,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(55,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(55,47): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(56,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(56,49): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameWindow.cpp(96,25): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+  main.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+  MainWindow.cpp
+  Map.cpp
+  ResultWindow.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\ResultWindow.cpp(12,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\ResultWindow.cpp(13,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\ResultWindow.cpp(41,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\ResultWindow.cpp(42,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SettingsWindow.cpp
+C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\GameSettings.h(37,2): warning C4091: 'static ': ignored on left of 'GameSettings' when no variable is declared
+  Generating Code...
+  GameApp.vcxproj -> C:\Users\User\Desktop\University\2 курс\2 курс 2 семестр\Курсова робота\GameApp\GameApp\x64\Debug\GameApp.exe
